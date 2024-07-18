@@ -1,0 +1,8 @@
+/* Used to edit the shadow, border, and margin of images.*/
+
+.markdown-source-view.mod-cm6 .internal-embed > img,
+.markdown-preview-view .internal-embed > img {
+    /*box-shadow: 0 28px 8px -26px rgba(0, 0, 0);*/
+    border: 1px solid #94a9ff;
+    margin: 0.25rem 0.25rem 0.75rem 0.25rem;
+}
